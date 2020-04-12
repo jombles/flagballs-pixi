@@ -1,0 +1,23 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Node.js example server starter project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "bvh": "0.5.0",
+    "detect-collisions": "2.5.1",
+    "express": "4.17.1",
+    "jquery": "3.4.1",
+    "lodash": "4.17.15",
+    "pixi.js": "5.2.1",
+    "sat": "0.8.0",
+    "socket.io": "2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
