@@ -10,7 +10,7 @@
     "bvh": "0.5.0",
     "detect-collisions": "2.5.1",
     "express": "4.17.1",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "lodash": "4.17.15",
     "pixi.js": "5.2.1",
     "sat": "0.8.0",
